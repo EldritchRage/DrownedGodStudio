@@ -31,6 +31,9 @@ a secure place to download The Ninth Tide app
 - Membership promotion
 
 ---
+"From the abyss comes the Ninth Tide, the final current of creation.
+Those who answer its call receive the offerings of the drowned: rare works, forgotten treasures, and the eternal bond between artist and canvas.
+Enter the depths. Claim your place among The Sunken."
 
 # 🛠️ Tech Stack
 
@@ -42,3 +45,31 @@ Current technologies:
 - GitHub Hosting
 
 # 📂 Project Structure
+DrownedGodStudio/
+│
+├── index.html
+├── css/
+│ └── styles.css
+│
+├── js/
+│ └── app.js
+│
+├── images/
+│ └── gallery/
+│
+├── admin/
+│ └── dashboard.html
+│
+├── firebase/
+│ └── config.js
+│
+└── README.md
+
+---
+
+# 🚀 Development Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/EldritchRage/DrownedGodStudio.git
